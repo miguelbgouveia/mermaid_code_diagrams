@@ -1,4 +1,4 @@
-```mermain
+```mermaid
 graph TD; 
 { 
  A-->B;
