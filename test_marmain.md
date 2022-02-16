@@ -1,5 +1,5 @@
 '''mermain
-graph TD; 
+graph TD: 
 { 
  A-->B;
  A-->C;
