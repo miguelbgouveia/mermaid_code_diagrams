@@ -1,6 +1,6 @@
 ```mermaid
 flowchart LR
-    id
+    id;
     
 flowchart TD
     A[Start] --> B{Is it?};
