@@ -1,5 +1,5 @@
 ```mermaid  
-flowchat TD
+graph TD
 { 
  A-->B;
  A-->C;
